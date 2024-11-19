@@ -1,0 +1,13 @@
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\bin\Debug\net8.0\Negocio_Franco.deps.json
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\bin\Debug\net8.0\Negocio_Franco.dll
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\bin\Debug\net8.0\Negocio_Franco.pdb
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.AssemblyInfo.cs
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.sourcelink.json
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.dll
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\refint\Negocio_Franco.dll
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.pdb
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\ref\Negocio_Franco.dll
+C:\Users\Franco\Desktop\LN\Programación III\Negocio_Franco\obj\Debug\net8.0\Negocio_Franco.csproj.AssemblyReference.cache

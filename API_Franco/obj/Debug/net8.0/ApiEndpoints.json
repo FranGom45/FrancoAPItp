@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "API_Franco.Controllers.ProductCrontroller",
+    "Method": "Get",
+    "RelativePath": "api/ProductCrontroller/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Franco.Controllers.ProductCrontroller",
+    "Method": "Post",
+    "RelativePath": "api/ProductCrontroller/products",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "products",
+        "Type": "Negocio_Franco.Modelos.Products",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Franco.Controllers.ProductCrontroller",
+    "Method": "Get",
+    "RelativePath": "api/ProductCrontroller/products/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Franco.Controllers.ProductCrontroller",
+    "Method": "Put",
+    "RelativePath": "api/ProductCrontroller/products/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "product",
+        "Type": "Negocio_Franco.Modelos.Products",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Franco.Controllers.ProductCrontroller",
+    "Method": "Delete",
+    "RelativePath": "api/ProductCrontroller/products/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
